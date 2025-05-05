@@ -1,5 +1,5 @@
 # bot.py
-# შენს ბოტის ლოგიკა ჩასვი აქ
+# 7731818099:AAHQlbvflNhXzEKyTeDeHXSI6xMT3Yjz0qg
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
